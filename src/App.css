@@ -1,0 +1,44 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
+}
+.container{
+  width: 80%;
+  margin: auto;
+}
+.fake-title{
+  width: 90%;
+  margin: 50px auto;
+  background-color: orangered;
+  padding: 10px;
+  color: #fff;
+  font-size: 25px;
+  opacity: 0.8;
+}
+.app-dark{
+  background-color: #000;
+  color: #fff;
+}
+.app-dark .navbar{
+  background-color: #222;
+}
+.app-dark .navbar .cart-icon{
+  color: #fff;
+}
+.app-dark .header{
+  background-color: #444;
+}
+
+.app-dark .header button{
+  color: #fff;
+}
+.app-dark .products .product{
+  background-color: #444;
+}
+.app-dark .footer{
+  background-color: #444;
+}

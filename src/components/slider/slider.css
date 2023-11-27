@@ -1,0 +1,13 @@
+.slide{
+    margin-top: 100px;
+    max-width: 900px;
+    height: max-content;
+}
+.slide img{
+    width: 100%;
+    height: 100%;
+}
+.slick-next{
+    background-color: #ccc;
+    font-size: 50px;
+}
