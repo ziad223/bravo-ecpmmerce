@@ -54,6 +54,11 @@
     font-size: 30px;
     line-height: 1.5;
   }
+  .Typewriter{
+  width: 80%;
+  text-align: center;
+  margin-left: 20px;
+}
   
   .header .header-content-text h2 span {
     display: inline-block;
