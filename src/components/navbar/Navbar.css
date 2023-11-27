@@ -44,6 +44,8 @@
 .cart-icon {
   font-size: 25px;
   cursor: pointer;
+  color: #000;
+
 }
 .cart span {
   width: 16px;
